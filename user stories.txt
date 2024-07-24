@@ -1,4 +1,4 @@
-•kavan: studying in 
+•kavan: studying in jssp
 i. While signing up, enter Username, Email, Password & Confirm Password, Security
 question and Address.
 ii. If user sign up with an incorrect detail, user receives an error message for incorrect
